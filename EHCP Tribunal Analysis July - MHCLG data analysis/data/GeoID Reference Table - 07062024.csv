@@ -1,0 +1,432 @@
+﻿GEOGCD,GEOGNM,ENTITYCD,EntityName,EntityAbbreviation,LA_TIER,STATUS,OPER_DATE,TERM_DATE,GEOGCD_current,GEOGNM_current
+E06000001,Hartlepool,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000001,Hartlepool
+E06000002,Middlesbrough,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000002,Middlesbrough
+E06000003,Redcar and Cleveland,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000003,Redcar and Cleveland
+E06000004,Stockton-on-Tees,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000004,Stockton-on-Tees
+E06000005,Darlington,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000005,Darlington
+E06000006,Halton,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000006,Halton
+E06000007,Warrington,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000007,Warrington
+E06000008,Blackburn with Darwen,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000008,Blackburn with Darwen
+E06000009,Blackpool,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000009,Blackpool
+E06000010,Kingston Upon Hull,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000010,Kingston Upon Hull
+E06000011,East Riding of Yorkshire,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000011,East Riding of Yorkshire
+E06000012,North East Lincolnshire,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000012,North East Lincolnshire
+E06000013,North Lincolnshire,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000013,North Lincolnshire
+E06000014,York,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000014,York
+E06000015,Derby,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000015,Derby
+E06000016,Leicester,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000016,Leicester
+E06000017,Rutland,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000017,Rutland
+E06000018,Nottingham,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000018,Nottingham
+E06000019,Herefordshire,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000019,Herefordshire
+E06000020,Telford and Wrekin,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000020,Telford and Wrekin
+E06000021,Stoke-on-Trent,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000021,Stoke-on-Trent
+E06000022,Bath and North East Somerset,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000022,Bath and North East Somerset
+E06000023,Bristol,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000023,Bristol
+E06000024,North Somerset,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000024,North Somerset
+E06000025,South Gloucestershire,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000025,South Gloucestershire
+E06000026,Plymouth,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000026,Plymouth
+E06000027,Torbay,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000027,Torbay
+E06000028,Bournemouth,E06,Unitary Authorities,UA,single_tier,terminated,01/01/2009,31/03/2019,E06000058,"Bournemouth, Christchurch and Poole"
+E06000029,Poole,E06,Unitary Authorities,UA,single_tier,terminated,01/01/2009,31/03/2019,E06000058,"Bournemouth, Christchurch and Poole"
+E06000030,Swindon,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000030,Swindon
+E06000031,Peterborough,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000031,Peterborough
+E06000032,Luton,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000032,Luton
+E06000033,Southend-on-Sea,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000033,Southend-on-Sea
+E06000034,Thurrock,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000034,Thurrock
+E06000035,Medway,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000035,Medway
+E06000036,Bracknell Forest,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000036,Bracknell Forest
+E06000037,West Berkshire,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000037,West Berkshire
+E06000038,Reading,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000038,Reading
+E06000039,Slough,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000039,Slough
+E06000040,Windsor and Maidenhead,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000040,Windsor and Maidenhead
+E06000041,Wokingham,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000041,Wokingham
+E06000042,Milton Keynes,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000042,Milton Keynes
+E06000043,Brighton and Hove,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000043,Brighton and Hove
+E06000044,Portsmouth,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000044,Portsmouth
+E06000045,Southampton,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000045,Southampton
+E06000046,Isle of Wight,E06,Unitary Authorities,UA,single_tier,live,01/01/2009,31/12/9999,E06000046,Isle of Wight
+E06000047,County Durham,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000047,County Durham
+E06000048,Northumberland,E06,Unitary Authorities,UA,single_tier,terminated,01/04/2009,31/03/2013,E06000057,Northumberland
+E06000049,Cheshire East,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000049,Cheshire East
+E06000050,Cheshire West and Chester,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000050,Cheshire West and Chester
+E06000051,Shropshire,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000051,Shropshire
+E06000052,Cornwall,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000052,Cornwall
+E06000053,Isles of Scilly,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000053,Isles of Scilly
+E06000054,Wiltshire,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000054,Wiltshire
+E06000055,Bedford,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000055,Bedford
+E06000056,Central Bedfordshire,E06,Unitary Authorities,UA,single_tier,live,01/04/2009,31/12/9999,E06000056,Central Bedfordshire
+E06000057,Northumberland,E06,Unitary Authorities,UA,single_tier,live,01/04/2013,31/12/9999,E06000057,Northumberland
+E06000058,"Bournemouth, Christchurch and Poole",E06,Unitary Authorities,UA,single_tier,live,01/04/2019,31/12/9999,E06000058,"Bournemouth, Christchurch and Poole"
+E06000059,Dorset,E06,Unitary Authorities,UA,single_tier,live,01/04/2019,31/12/9999,E06000059,Dorset
+E06000060,Buckinghamshire,E06,Unitary Authorities,UA,single_tier,live,01/04/2020,31/12/9999,E06000060,Buckinghamshire
+E06000061,North Northamptonshire,E06,Unitary Authorities,UA,single_tier,live,01/04/2021,31/12/9999,E06000061,North Northamptonshire
+E06000062,West Northamptonshire,E06,Unitary Authorities,UA,single_tier,live,01/04/2021,31/12/9999,E06000062,West Northamptonshire
+E06000063,Cumberland,E06,Unitary Authorities,UA,single_tier,live,01/04/2023,31/12/9999,E06000063,Cumberland
+E06000064,Westmorland and Furness,E06,Unitary Authorities,UA,single_tier,live,01/04/2023,31/12/9999,E06000064,Westmorland and Furness
+E06000065,North Yorkshire,E06,Unitary Authorities,UA,single_tier,live,01/04/2023,31/12/9999,E06000065,North Yorkshire
+E06000066,Somerset,E06,Unitary Authorities,UA,single_tier,live,01/04/2023,31/12/9999,E06000066,Somerset
+E07000001,Mid Bedfordshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000002,Bedford,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000003,South Bedfordshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000004,Aylesbury Vale,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2020,E06000060,Buckinghamshire
+E07000005,Chiltern,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2020,E06000060,Buckinghamshire
+E07000006,South Bucks,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2020,E06000060,Buckinghamshire
+E07000007,Wycombe,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2020,E06000060,Buckinghamshire
+E07000008,Cambridge,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000008,Cambridge
+E07000009,East Cambridgeshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000009,East Cambridgeshire
+E07000010,Fenland,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000010,Fenland
+E07000011,Huntingdonshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000011,Huntingdonshire
+E07000012,South Cambridgeshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000012,South Cambridgeshire
+E07000013,Chester,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000014,Congleton,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000015,Crewe and Nantwich,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000016,Ellesmere Port & Neston,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000017,Macclesfield,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000018,Vale Royal,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000019,Caradon,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000020,Carrick,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000021,Kerrier,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000022,North Cornwall,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000023,Penwith,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000024,Restormel,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000025,Isles of Scilly,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000026,Allerdale,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000063,Cumberland
+E07000027,Barrow-in-Furness,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000064,Westmorland and Furness
+E07000028,Carlisle,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000063,Cumberland
+E07000029,Copeland,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000063,Cumberland
+E07000030,Eden,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000064,Westmorland and Furness
+E07000031,South Lakeland,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000064,Westmorland and Furness
+E07000032,Amber Valley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000032,Amber Valley
+E07000033,Bolsover,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000033,Bolsover
+E07000034,Chesterfield,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000034,Chesterfield
+E07000035,Derbyshire Dales,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000035,Derbyshire Dales
+E07000036,Erewash,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000036,Erewash
+E07000037,High Peak,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000037,High Peak
+E07000038,North East Derbyshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000038,North East Derbyshire
+E07000039,South Derbyshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000039,South Derbyshire
+E07000040,East Devon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000040,East Devon
+E07000041,Exeter,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000041,Exeter
+E07000042,Mid Devon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000042,Mid Devon
+E07000043,North Devon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000043,North Devon
+E07000044,South Hams,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000044,South Hams
+E07000045,Teignbridge,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000045,Teignbridge
+E07000046,Torridge,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000046,Torridge
+E07000047,West Devon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000047,West Devon
+E07000048,Christchurch,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000058,"Bournemouth, Christchurch and Poole"
+E07000049,East Dorset,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000059,Dorset
+E07000050,North Dorset,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000059,Dorset
+E07000051,Purbeck,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000059,Dorset
+E07000052,West Dorset,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000059,Dorset
+E07000053,Weymouth and Portland,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000059,Dorset
+E07000054,Chester-le-Street,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000055,Derwentside,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000056,Durham,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000057,Easington,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000058,Sedgefield,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000059,Teesdale,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000060,Wear Valley,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000061,Eastbourne,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000061,Eastbourne
+E07000062,Hastings,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000062,Hastings
+E07000063,Lewes,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000063,Lewes
+E07000064,Rother,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000064,Rother
+E07000065,Wealden,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000065,Wealden
+E07000066,Basildon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000066,Basildon
+E07000067,Braintree,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000067,Braintree
+E07000068,Brentwood,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000068,Brentwood
+E07000069,Castle Point,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000069,Castle Point
+E07000070,Chelmsford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000070,Chelmsford
+E07000071,Colchester,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000071,Colchester
+E07000072,Epping Forest,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000072,Epping Forest
+E07000073,Harlow,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000073,Harlow
+E07000074,Maldon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000074,Maldon
+E07000075,Rochford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000075,Rochford
+E07000076,Tendring,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000076,Tendring
+E07000077,Uttlesford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000077,Uttlesford
+E07000078,Cheltenham,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000078,Cheltenham
+E07000079,Cotswold,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000079,Cotswold
+E07000080,Forest of Dean,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000080,Forest of Dean
+E07000081,Gloucester,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000081,Gloucester
+E07000082,Stroud,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000082,Stroud
+E07000083,Tewkesbury,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000083,Tewkesbury
+E07000084,Basingstoke and Deane,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000084,Basingstoke and Deane
+E07000085,East Hampshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000085,East Hampshire
+E07000086,Eastleigh,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000086,Eastleigh
+E07000087,Fareham,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000087,Fareham
+E07000088,Gosport,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000088,Gosport
+E07000089,Hart,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000089,Hart
+E07000090,Havant,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000090,Havant
+E07000091,New Forest,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000091,New Forest
+E07000092,Rushmoor,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000092,Rushmoor
+E07000093,Test Valley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000093,Test Valley
+E07000094,Winchester,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000094,Winchester
+E07000095,Broxbourne,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000095,Broxbourne
+E07000096,Dacorum,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000096,Dacorum
+E07000097,East Hertfordshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2013,NULL,NULL
+E07000098,Hertsmere,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000098,Hertsmere
+E07000099,North Hertfordshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000099,North Hertfordshire
+E07000100,St Albans,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2012,NULL,NULL
+E07000101,Stevenage,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2013,NULL,NULL
+E07000102,Three Rivers,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000102,Three Rivers
+E07000103,Watford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000103,Watford
+E07000104,Welwyn Hatfield,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2012,NULL,NULL
+E07000105,Ashford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000105,Ashford
+E07000106,Canterbury,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000106,Canterbury
+E07000107,Dartford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000107,Dartford
+E07000108,Dover,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000108,Dover
+E07000109,Gravesham,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000109,Gravesham
+E07000110,Maidstone,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000110,Maidstone
+E07000111,Sevenoaks,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000111,Sevenoaks
+E07000112,Folkestone and Hythe,E07,Non-metropolitan Districts,NMD,lower,live,01/04/2018,31/12/9999,E07000112,Folkestone and Hythe
+E07000113,Swale,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000113,Swale
+E07000114,Thanet,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000114,Thanet
+E07000115,Tonbridge and Malling,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000115,Tonbridge and Malling
+E07000116,Tunbridge Wells,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000116,Tunbridge Wells
+E07000117,Burnley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000117,Burnley
+E07000118,Chorley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000118,Chorley
+E07000119,Fylde,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000119,Fylde
+E07000120,Hyndburn,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000120,Hyndburn
+E07000121,Lancaster,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000121,Lancaster
+E07000122,Pendle,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000122,Pendle
+E07000123,Preston,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000123,Preston
+E07000124,Ribble Valley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000124,Ribble Valley
+E07000125,Rossendale,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000125,Rossendale
+E07000126,South Ribble,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000126,South Ribble
+E07000127,West Lancashire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000127,West Lancashire
+E07000128,Wyre,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000128,Wyre
+E07000129,Blaby,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000129,Blaby
+E07000130,Charnwood,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000130,Charnwood
+E07000131,Harborough,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000131,Harborough
+E07000132,Hinckley and Bosworth,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000132,Hinckley and Bosworth
+E07000133,Melton,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000133,Melton
+E07000134,North West Leicestershire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000134,North West Leicestershire
+E07000135,Oadby and Wigston,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000135,Oadby and Wigston
+E07000136,Boston,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000136,Boston
+E07000137,East Lindsey,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000137,East Lindsey
+E07000138,Lincoln,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000138,Lincoln
+E07000139,North Kesteven,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000139,North Kesteven
+E07000140,South Holland,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000140,South Holland
+E07000141,South Kesteven,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000141,South Kesteven
+E07000142,West Lindsey,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000142,West Lindsey
+E07000143,Breckland,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000143,Breckland
+E07000144,Broadland,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000144,Broadland
+E07000145,Great Yarmouth,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000145,Great Yarmouth
+E07000146,King's Lynn and West Norfolk,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000146,King's Lynn and West Norfolk
+E07000147,North Norfolk,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000147,North Norfolk
+E07000148,Norwich,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000148,Norwich
+E07000149,South Norfolk,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000149,South Norfolk
+E07000150,Corby,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2021,E06000061,North Northamptonshire
+E07000151,Daventry,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2021,E06000062,West Northamptonshire
+E07000152,East Northamptonshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2021,E06000061,North Northamptonshire
+E07000153,Kettering,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2021,E06000061,North Northamptonshire
+E07000154,Northampton,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2021,E06000062,West Northamptonshire
+E07000155,South Northamptonshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2021,E06000062,West Northamptonshire
+E07000156,Wellingborough,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2021,E06000061,North Northamptonshire
+E07000157,Alnwick,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000158,Berwick-upon-Tweed,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000159,Blyth Valley,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000160,Castle Morpeth,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000161,Tynedale,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000162,Wansbeck,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000163,Craven,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E07000164,Hambleton,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E07000165,Harrogate,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E07000166,Richmondshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E07000167,Ryedale,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E07000168,Scarborough,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E07000169,Selby,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E07000170,Ashfield,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000170,Ashfield
+E07000171,Bassetlaw,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000171,Bassetlaw
+E07000172,Broxtowe,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000172,Broxtowe
+E07000173,Gedling,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000173,Gedling
+E07000174,Mansfield,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000174,Mansfield
+E07000175,Newark and Sherwood,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000175,Newark and Sherwood
+E07000176,Rushcliffe,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000176,Rushcliffe
+E07000177,Cherwell,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000177,Cherwell
+E07000178,Oxford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000178,Oxford
+E07000179,South Oxfordshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000179,South Oxfordshire
+E07000180,Vale of White Horse,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000180,Vale of White Horse
+E07000181,West Oxfordshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000181,West Oxfordshire
+E07000182,Bridgnorth,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000183,North Shropshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000184,Oswestry,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000185,Shrewsbury and Atcham,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000186,South Shropshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000187,Mendip,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000066,Somerset
+E07000188,Sedgemoor,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000066,Somerset
+E07000189,South Somerset,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2023,E06000066,Somerset
+E07000190,Taunton Deane,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000066,Somerset
+E07000191,West Somerset,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E06000066,Somerset
+E07000192,Cannock Chase,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000192,Cannock Chase
+E07000193,East Staffordshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000193,East Staffordshire
+E07000194,Lichfield,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000194,Lichfield
+E07000195,Newcastle-under-Lyme,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000195,Newcastle-under-Lyme
+E07000196,South Staffordshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000196,South Staffordshire
+E07000197,Stafford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000197,Stafford
+E07000198,Staffordshire Moorlands,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000198,Staffordshire Moorlands
+E07000199,Tamworth,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000199,Tamworth
+E07000200,Babergh,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000200,Babergh
+E07000201,Forest Heath,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E07000245,West Suffolk
+E07000202,Ipswich,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000202,Ipswich
+E07000203,Mid Suffolk,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000203,Mid Suffolk
+E07000204,St Edmundsbury,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E07000245,West Suffolk
+E07000205,Suffolk Coastal,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E07000244,East Suffolk
+E07000206,Waveney,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2019,E07000244,East Suffolk
+E07000207,Elmbridge,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000207,Elmbridge
+E07000208,Epsom and Ewell,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000208,Epsom and Ewell
+E07000209,Guildford,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000209,Guildford
+E07000210,Mole Valley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000210,Mole Valley
+E07000211,Reigate and Banstead,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000211,Reigate and Banstead
+E07000212,Runnymede,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000212,Runnymede
+E07000213,Spelthorne,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000213,Spelthorne
+E07000214,Surrey Heath,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000214,Surrey Heath
+E07000215,Tandridge,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000215,Tandridge
+E07000216,Waverley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000216,Waverley
+E07000217,Woking,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000217,Woking
+E07000218,North Warwickshire,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000218,North Warwickshire
+E07000219,Nuneaton and Bedworth,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000219,Nuneaton and Bedworth
+E07000220,Rugby,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000220,Rugby
+E07000221,Stratford-on-Avon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000221,Stratford-on-Avon
+E07000222,Warwick,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000222,Warwick
+E07000223,Adur,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000223,Adur
+E07000224,Arun,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000224,Arun
+E07000225,Chichester,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000225,Chichester
+E07000226,Crawley,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000226,Crawley
+E07000227,Horsham,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000227,Horsham
+E07000228,Mid Sussex,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000228,Mid Sussex
+E07000229,Worthing,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000229,Worthing
+E07000230,Kennet,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000231,North Wiltshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000232,Salisbury,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000233,West Wiltshire,E07,Non-metropolitan Districts,NMD,lower,terminated,01/01/2009,31/03/2009,NULL,NULL
+E07000234,Bromsgrove,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000234,Bromsgrove
+E07000235,Malvern Hills,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000235,Malvern Hills
+E07000236,Redditch,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000236,Redditch
+E07000237,Worcester,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000237,Worcester
+E07000238,Wychavon,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000238,Wychavon
+E07000239,Wyre Forest,E07,Non-metropolitan Districts,NMD,lower,live,01/01/2009,31/12/9999,E07000239,Wyre Forest
+E07000240,St Albans,E07,Non-metropolitan Districts,NMD,lower,live,01/04/2012,31/12/9999,E07000240,St Albans
+E07000241,Welwyn Hatfield,E07,Non-metropolitan Districts,NMD,lower,live,01/04/2012,31/12/9999,E07000241,Welwyn Hatfield
+E07000242,East Hertfordshire,E07,Non-metropolitan Districts,NMD,lower,live,01/04/2013,31/12/9999,E07000242,East Hertfordshire
+E07000243,Stevenage,E07,Non-metropolitan Districts,NMD,lower,live,01/04/2013,31/12/9999,E07000243,Stevenage
+E07000244,East Suffolk,E07,Non-metropolitan Districts,NMD,lower,live,01/04/2019,31/12/9999,E07000244,East Suffolk
+E07000245,West Suffolk,E07,Non-metropolitan Districts,NMD,lower,live,01/04/2019,31/12/9999,E07000245,West Suffolk
+E07000246,Somerset West and Taunton,E07,Non-metropolitan Districts,NMD,lower,terminated,01/04/2019,31/03/2023,E06000066,Somerset
+E08000001,Bolton,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000001,Bolton
+E08000002,Bury,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000002,Bury
+E08000003,Manchester,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000003,Manchester
+E08000004,Oldham,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000004,Oldham
+E08000005,Rochdale,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000005,Rochdale
+E08000006,Salford,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000006,Salford
+E08000007,Stockport,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000007,Stockport
+E08000008,Tameside,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000008,Tameside
+E08000009,Trafford,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000009,Trafford
+E08000010,Wigan,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000010,Wigan
+E08000011,Knowsley,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000011,Knowsley
+E08000012,Liverpool,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000012,Liverpool
+E08000013,St. Helens,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000013,St. Helens
+E08000014,Sefton,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000014,Sefton
+E08000015,Wirral,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000015,Wirral
+E08000016,Barnsley,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000016,Barnsley
+E08000017,Doncaster,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000017,Doncaster
+E08000018,Rotherham,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000018,Rotherham
+E08000019,Sheffield,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000019,Sheffield
+E08000020,Gateshead,E08,Metropolitan Districts,MD,single_tier,terminated,01/01/2009,31/03/2013,E08000037,Gateshead
+E08000021,Newcastle upon Tyne,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000021,Newcastle upon Tyne
+E08000022,North Tyneside,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000022,North Tyneside
+E08000023,South Tyneside,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000023,South Tyneside
+E08000024,Sunderland,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000024,Sunderland
+E08000025,Birmingham,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000025,Birmingham
+E08000026,Coventry,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000026,Coventry
+E08000027,Dudley,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000027,Dudley
+E08000028,Sandwell,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000028,Sandwell
+E08000029,Solihull,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000029,Solihull
+E08000030,Walsall,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000030,Walsall
+E08000031,Wolverhampton,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000031,Wolverhampton
+E08000032,Bradford,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000032,Bradford
+E08000033,Calderdale,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000033,Calderdale
+E08000034,Kirklees,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000034,Kirklees
+E08000035,Leeds,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000035,Leeds
+E08000036,Wakefield,E08,Metropolitan Districts,MD,single_tier,live,01/01/2009,31/12/9999,E08000036,Wakefield
+E08000037,Gateshead,E08,Metropolitan Districts,MD,single_tier,live,01/04/2013,31/12/9999,E08000037,Gateshead
+E09000001,City of London,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000001,City of London
+E09000002,Barking and Dagenham,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000002,Barking and Dagenham
+E09000003,Barnet,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000003,Barnet
+E09000004,Bexley,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000004,Bexley
+E09000005,Brent,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000005,Brent
+E09000006,Bromley,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000006,Bromley
+E09000007,Camden,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000007,Camden
+E09000008,Croydon,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000008,Croydon
+E09000009,Ealing,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000009,Ealing
+E09000010,Enfield,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000010,Enfield
+E09000011,Greenwich,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000011,Greenwich
+E09000012,Hackney,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000012,Hackney
+E09000013,Hammersmith and Fulham,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000013,Hammersmith and Fulham
+E09000014,Haringey,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000014,Haringey
+E09000015,Harrow,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000015,Harrow
+E09000016,Havering,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000016,Havering
+E09000017,Hillingdon,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000017,Hillingdon
+E09000018,Hounslow,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000018,Hounslow
+E09000019,Islington,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000019,Islington
+E09000020,Kensington and Chelsea,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000020,Kensington and Chelsea
+E09000021,Kingston upon Thames,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000021,Kingston upon Thames
+E09000022,Lambeth,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000022,Lambeth
+E09000023,Lewisham,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000023,Lewisham
+E09000024,Merton,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000024,Merton
+E09000025,Newham,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000025,Newham
+E09000026,Redbridge,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000026,Redbridge
+E09000027,Richmond upon Thames,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000027,Richmond upon Thames
+E09000028,Southwark,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000028,Southwark
+E09000029,Sutton,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000029,Sutton
+E09000030,Tower Hamlets,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000030,Tower Hamlets
+E09000031,Waltham Forest,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000031,Waltham Forest
+E09000032,Wandsworth,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000032,Wandsworth
+E09000033,Westminster,E09,London Boroughs,LONB,single_tier,live,01/01/2009,31/12/9999,E09000033,Westminster
+E10000001,Bedfordshire,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2009,NULL,NULL
+E10000002,Buckinghamshire,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2020,E06000060,Buckinghamshire
+E10000003,Cambridgeshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000003,Cambridgeshire
+E10000004,Cheshire,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2009,NULL,NULL
+E10000005,Cornwall and Isles of Scilly,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2009,NULL,NULL
+E10000006,Cumbria,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2023,NULL,NULL
+E10000007,Derbyshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000007,Derbyshire
+E10000008,Devon,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000008,Devon
+E10000009,Dorset,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2019,NULL,NULL
+E10000010,Durham,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2009,NULL,NULL
+E10000011,East Sussex,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000011,East Sussex
+E10000012,Essex,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000012,Essex
+E10000013,Gloucestershire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000013,Gloucestershire
+E10000014,Hampshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000014,Hampshire
+E10000015,Hertfordshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000015,Hertfordshire
+E10000016,Kent,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000016,Kent
+E10000017,Lancashire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000017,Lancashire
+E10000018,Leicestershire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000018,Leicestershire
+E10000019,Lincolnshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000019,Lincolnshire
+E10000020,Norfolk,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000020,Norfolk
+E10000021,Northamptonshire,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2021,NULL,NULL
+E10000022,Northumberland,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2009,NULL,NULL
+E10000023,North Yorkshire,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2023,E06000065,North Yorkshire
+E10000024,Nottinghamshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000024,Nottinghamshire
+E10000025,Oxfordshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000025,Oxfordshire
+E10000026,Shropshire,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2009,NULL,NULL
+E10000027,Somerset,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2023,E06000066,Somerset
+E10000028,Staffordshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000028,Staffordshire
+E10000029,Suffolk,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000029,Suffolk
+E10000030,Surrey,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000030,Surrey
+E10000031,Warwickshire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000031,Warwickshire
+E10000032,West Sussex,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000032,West Sussex
+E10000033,Wiltshire,E10,Counties,CTY,county,terminated,01/01/2009,31/03/2009,NULL,NULL
+E10000034,Worcestershire,E10,Counties,CTY,county,live,01/01/2009,31/12/9999,E10000034,Worcestershire
+E47000001,Greater Manchester,E47,Combined Authorities,CAUTH,combined_LGA,live,01/03/2016,31/12/9999,E47000001,Greater Manchester
+E47000002,South Yorkshire,E47,Combined Authorities,CAUTH,combined_LGA,live,01/09/2021,31/12/9999,E47000002,South Yorkshire
+E47000003,West Yorkshire,E47,Combined Authorities,CAUTH,combined_LGA,live,01/03/2016,31/12/9999,E47000003,West Yorkshire
+E47000004,Liverpool City Region,E47,Combined Authorities,CAUTH,combined_LGA,live,01/03/2016,31/12/9999,E47000004,Liverpool City Region
+E47000005,North East,E47,Combined Authorities,CAUTH,combined_LGA,terminated,01/03/2016,31/10/2018,E47000014,North East Combined Authority
+E47000006,Tees Valley,E47,Combined Authorities,CAUTH,combined_LGA,live,01/04/2016,31/12/9999,E47000006,Tees Valley
+E47000007,West Midlands,E47,Combined Authorities,CAUTH,combined_LGA,live,17/06/2016,31/12/9999,E47000007,West Midlands
+E47000008,Cambridgeshire and Peterborough,E47,Combined Authorities,CAUTH,combined_LGA,live,03/03/2017,31/12/9999,E47000008,Cambridgeshire and Peterborough
+E47000009,West of England,E47,Combined Authorities,CAUTH,combined_LGA,live,03/03/2017,31/12/9999,E47000009,West of England
+E47000010,North East,E47,Combined Authorities,CAUTH,combined_LGA,live,01/11/2018,31/12/9999,E47000010,North East
+E47000011,North of Tyne,E47,Combined Authorities,CAUTH,combined_LGA,live,01/11/2018,31/12/9999,E47000011,North of Tyne
+E61000001,Greater London Authority,E61,Greater London Authority,GLA,combined_LGA,live,03/07/2000,31/12/9999,E61000001,Greater London Authority
+E47000013,East Midlands Combined County Authority,E47,Combined Authorities,CAUTH,combined_LGA,live,31/03/2024,31/12/9999,E47000013,East Midlands Combined County Authority
+E47000014,North East Combined Authority,E47,Combined Authorities,CAUTH,combined_LGA,live,31/03/2024,31/12/9999,E47000014,North East Combined Authority
+E47000012,York & North Yorkshire Mayoral Combined Authority,E47,Combined Authorities,CAUTH,combined_LGA,live,31/03/2024,31/12/9999,E47000012,York & North Yorkshire Mayoral Combined Authority

@@ -1,0 +1,2 @@
+new_la_code_current,la_name,region_name,rate_per_1000_base,ehcplans_base,pop_0_25_base,rate_per_1000_latest,ehcplans_latest,pop_0_25_latest,rate_change_pct,plans_change_pct,pop_change_pct,absolute_rate_diff,absolute_plan_diff,reason
+E09000001,City of London,London,7.349081364829396,14,1905,5.725611098876899,26,4541,-22.090791833139335,85.71428571428572,138.37270341207352,-1.6234702659524967,12,Pop grew faster than plans (denominator effect)
